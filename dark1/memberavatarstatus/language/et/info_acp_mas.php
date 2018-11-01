@@ -35,9 +35,9 @@ $lang = array_merge($lang, array(
 	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate avatar & staatus [MAS]</strong> %s',
 
 	// ACP MAS Modes
-	'ACP_MAS_MODE_MAIN'			=> 'MAS Overview',
-	'ACP_MAS_MODE_MEMBERLIST'	=> 'MAS Memberlist Settings',
-	'ACP_MAS_MODE_VIEWONLINE'	=> 'MAS Viewonline Settings',
-	'ACP_MAS_MODE_VIEWFORUM'	=> 'MAS Viewforum Settings',
-	'ACP_MAS_MODE_SEARCH'		=> 'MAS Search Settings',
+	'ACP_MAS_MODE_MAIN'			=> 'MAS Ülevaade',
+	'ACP_MAS_MODE_MEMBERLIST'	=> 'MAS Kasutajalisti Seaded',
+	'ACP_MAS_MODE_VIEWONLINE'	=> 'MAS Kohaloleku kuvamise Seaded',
+	'ACP_MAS_MODE_VIEWFORUM'	=> 'MAS Foorumi kuvamise Seaded',
+	'ACP_MAS_MODE_SEARCH'		=> 'MAS Otsingu Seaded',
 ));
