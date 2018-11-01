@@ -2,6 +2,7 @@
 /**
  *
  * Member Avatar & Status [MAS]. An extension for the phpBB Forum Software package.
+ * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
  *
  * @copyright (c) 2018, Dark❶ [dark1]
  * @license GNU General Public License, version 2 (GPL-2.0)
