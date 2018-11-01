@@ -2,6 +2,7 @@
 /**
  *
  * Member Avatar & Status [MAS]. An extension for the phpBB Forum Software package.
+ * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
  *
  * @copyright (c) 2018, Dark❶ [dark1]
  * @license GNU General Public License, version 2 (GPL-2.0)
@@ -28,10 +29,10 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_MAS_TITLE'				=> 'Member Avatar & Status [MAS]',
+	'ACP_MAS_TITLE'				=> 'Kasutajate avatar & staatus [MAS]',
 
 	// Log Message
-	'ACP_MAS_LOG_TITLE'			=> '<strong>Member Avatar & Status [MAS]</strong> %s',
+	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate avatar & staatus [MAS]</strong> %s',
 
 	// ACP MAS Modes
 	'ACP_MAS_MODE_MAIN'			=> 'MAS Overview',
