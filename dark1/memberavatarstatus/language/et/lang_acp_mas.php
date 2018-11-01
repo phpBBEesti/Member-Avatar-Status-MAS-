@@ -50,15 +50,15 @@ $lang = array_merge($lang, array(
 	// Memberlist
 	'ACP_MAS_ML_AV_SET'			=> 'Profiilipildi seade',
 	'ACP_MAS_ML_AV_LB'			=> 'Luba profiilipilt',
-	'ACP_MAS_ML_AV_EXPLAIN'		=> 'Enables the Avatar in Memberlist,<br />That is in “The team” , “Groups” & “Members” Page.<br />Default : No',
+	'ACP_MAS_ML_AV_EXPLAIN'		=> 'Lubab kuvada profiilipilti kasutajatelistis,<br />“Meeskond” , “Grupid” & “Kasutajad” lehel.<br />Vaikimisi : Keelatud',
 	'ACP_MAS_ML_AV_SZ_LB'		=> 'Profiilipildi suurus',
 	'ACP_MAS_ML_OL_SET'			=> 'Online Status Setting',
 	'ACP_MAS_ML_OL_LB'			=> 'Online Status Enable',
-	'ACP_MAS_ML_OL_EXPLAIN'		=> 'Enables the Online Status in Memberlist,<br />That is in “The team” , “Groups” & “Members” Page.<br />Default : No',
+	'ACP_MAS_ML_OL_EXPLAIN'		=> 'Enables the Online Status in Memberlist,<br />That is in “The team” , “Groups” & “Members” Page.<br />Vaikimisi : Keelatud',
 	// Viewonline
 	'ACP_MAS_VO_PG_AV_SET'		=> 'Page Avatar Setting',
 	'ACP_MAS_VO_PG_AV_LB'		=> 'Page Avatar Enable',
-	'ACP_MAS_VO_PG_AV_EXPLAIN'	=> 'Enables the Avatar in Viewonline Page,<br />That is in “Who is online” Page.<br />Default : No',
+	'ACP_MAS_VO_PG_AV_EXPLAIN'	=> 'Enables the Avatar in Viewonline Page,<br />That is in “Who is online” Page.<br />Vaikimisi : Keelatud',
 	'ACP_MAS_VO_PG_AV_SZ_LB'	=> 'Page Avatar Size',
 	'ACP_MAS_VO_SB_AV_SET'		=> 'Stat Block Avatar Setting',
 	'ACP_MAS_VO_SB_AV_LB'		=> 'Stat Block Avatar Enable',
