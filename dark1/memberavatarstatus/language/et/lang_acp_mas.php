@@ -43,10 +43,10 @@ $lang = array_merge($lang, array(
 	// ACP MAS Setting Page Non-Common Elements
 	'ACP_MAS_PHPBB_AV_SET'		=> 'phpBB Profiilipildi Seade',
 	'ACP_MAS_PHPBB_AV_LB'		=> 'Luba profiilipildid',
-	'ACP_MAS_PHPBB_AV_EXPLAIN'	=> 'None of the bellow Avatar setting will work,<br />Because phpBB Avatar is Disabled.<br />Enable it Here : ',
-	'ACP_MAS_PHPBB_OL_SET'		=> 'phpBB Online Status Setting',
-	'ACP_MAS_PHPBB_OL_LB'		=> 'Enable Display of User Online/Offline Information',
-	'ACP_MAS_PHPBB_OL_EXPLAIN'	=> 'None of the bellow Online Status setting will work,<br />Because phpBB Online Status is Disabled.<br />Enable it Here : ',
+	'ACP_MAS_PHPBB_AV_EXPLAIN'	=> 'Ükski nendest profiilipildi seadetest ei tööta, sest<br />phpBB profiilipildi kuvamine on keelatud.<br />Luba see siin : ',
+	'ACP_MAS_PHPBB_OL_SET'		=> 'phpBB kohaloleku kuvamise seade',
+	'ACP_MAS_PHPBB_OL_LB'		=> 'Luba kuvada kasutajate kohalolekut/eemal olekut',
+	'ACP_MAS_PHPBB_OL_EXPLAIN'	=> 'Ükski nendest kohaloleku kuvamise seadetest ei tööta, sest<br />phpBB kohaloleku kuvamine on keelatud.<br />Luba see siin : ',
 	// Memberlist
 	'ACP_MAS_ML_AV_SET'			=> 'Profiilipildi seade',
 	'ACP_MAS_ML_AV_LB'			=> 'Luba profiilipilt',
