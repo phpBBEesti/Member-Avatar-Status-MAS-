@@ -8,9 +8,9 @@
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  *
- * Language : English [en]
+ * Language : Estonia [et]
  * Translators :
- * 1. Dark❶ [dark1]
+ * 1. Exabot
  *
  *
  */
