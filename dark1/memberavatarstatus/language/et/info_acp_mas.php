@@ -29,10 +29,10 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_MAS_TITLE'				=> 'Kasutajate avatar & staatus',
+	'ACP_MAS_TITLE'				=> 'Kasutajate profiilipilt & staatus',
 
 	// Log Message
-	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate avatar & staatus</strong> %s',
+	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate profiilipilt & staatus</strong> %s',
 
 	// ACP MAS Modes
 	'ACP_MAS_MODE_MAIN'			=> 'Ülevaade',
