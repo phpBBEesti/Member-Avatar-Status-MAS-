@@ -29,15 +29,15 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_MAS_TITLE'				=> 'Kasutajate avatar & staatus [MAS]',
+	'ACP_MAS_TITLE'				=> 'Kasutajate avatar & staatus',
 
 	// Log Message
-	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate avatar & staatus [MAS]</strong> %s',
+	'ACP_MAS_LOG_TITLE'			=> '<strong>Kasutajate avatar & staatus</strong> %s',
 
 	// ACP MAS Modes
-	'ACP_MAS_MODE_MAIN'			=> 'MAS Ülevaade',
-	'ACP_MAS_MODE_MEMBERLIST'	=> 'MAS Kasutajalisti Seaded',
-	'ACP_MAS_MODE_VIEWONLINE'	=> 'MAS Kohaloleku kuvamise Seaded',
-	'ACP_MAS_MODE_VIEWFORUM'	=> 'MAS Foorumi kuvamise Seaded',
-	'ACP_MAS_MODE_SEARCH'		=> 'MAS Otsingu Seaded',
+	'ACP_MAS_MODE_MAIN'			=> 'Ülevaade',
+	'ACP_MAS_MODE_MEMBERLIST'	=> 'Kasutajalisti Seaded',
+	'ACP_MAS_MODE_VIEWONLINE'	=> 'Kohaloleku kuvamise Seaded',
+	'ACP_MAS_MODE_VIEWFORUM'	=> 'Foorumi kuvamise Seaded',
+	'ACP_MAS_MODE_SEARCH'		=> 'Otsingu Seaded',
 ));
