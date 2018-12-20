@@ -32,7 +32,7 @@ $lang = array_merge($lang, array(
 	'MAS_NO_AVATAR_TEXT'		=> 'Avatar puudub',
 
 	// Log Message
-	'ACP_MAS_LOG_SET_SAV'		=> '<strong>Member Avatar & Status [MAS]</strong> <br />&raquo;&nbsp; %s &nbsp;saved successfully!',
-	'MAS_LOG_CONFIG'			=> '<strong>Member Avatar & Status [MAS]</strong> <br />&raquo;&nbsp;Error with Config ‘%1$s’, %2$s %3$s',
-	'MAS_ERR_AV_SIZE'			=> '<br />&raquo;&nbsp;Avatar Size is Not Between specified Range, Hence Default’ed to',
+	'ACP_MAS_LOG_SET_SAV'		=> '<strong>Kasutajate profiilipilt & Staatus</strong> <br />&raquo;&nbsp; %s &nbsp;edukalt salvestatud!',
+	'MAS_LOG_CONFIG'			=> '<strong>Kasutajate profiilipilt & Staatus</strong> <br />&raquo;&nbsp;Viga seadistamises ‘%1$s’, %2$s %3$s',
+	'MAS_ERR_AV_SIZE'			=> '<br />&raquo;&nbsp;Profiilipildi suurus ei ole määratud õigesse vahemiku, seega ei ole vaikimisi määratud',
 ));
